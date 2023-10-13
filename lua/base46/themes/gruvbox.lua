@@ -5,7 +5,7 @@ local M = {}
 
 M.base_30 = {
   white = "#ebdbb2",
-  darker_black = "#232323",
+  darker_black = "#000",
   black = "#282828", --  nvim bg
   black2 = "#2e2e2e",
   one_bg = "#353535",
